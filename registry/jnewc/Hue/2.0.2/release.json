@@ -1,0 +1,12 @@
+{
+  "id": "jnewc.Hue",
+  "version": "2.0.",
+  "resources": [
+    {
+      "name": "source-archive",
+      "type": "application/zip",
+      "checksum": "0e8d18f6524a3b6bc7a9c46ad06e3b7e06a15f21bde6551a925b8a1a4bae1be9"
+    }
+  ],
+  "publishedAt": "2024-07-01T00:00:00Z"
+}
